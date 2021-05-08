@@ -1,1 +1,2 @@
 # EDA-Project-Pro-Soccer-Player-Stats-Analysis
+I would like to provide a sense of the current situation in the field of male professional soccer. The FIFA video game annually updates comprehensive players’ ability stats based on their past year performance, which should be indicative of the real-world player capacities. I summarized top players at different positions, measured the strengths of national teams, and tested for the correlation between a player's age and potential.
